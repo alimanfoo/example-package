@@ -1,2 +1,2 @@
-def thanks():
-  print("Your welcome!")
+def answer():
+  print(ord("*")
