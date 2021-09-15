@@ -1,2 +1,2 @@
-def hello(name):
-  print(f"Hello {name}!")
+def question():
+  print(f"The ultimate question of life, the universe and everything.")
